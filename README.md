@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mateus Santana and I love solutions problems !</h2>
+<h2 align="center">Hi 👋! My name is Mateus Santana and I love solving problems !</h2>
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/static/gifs/new.gif" width="250" height="250" />
